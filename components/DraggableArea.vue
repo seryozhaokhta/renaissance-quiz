@@ -134,7 +134,7 @@ const getCardStyle = (index: number) => {
     border: 1px solid hsla(220, 10%, 25%, 1);
     border-radius: 8px;
     background-color: hsla(220, 15%, 15%, 1);
-    cursor: grab;
+
     display: flex;
     align-items: center;
     justify-content: center;
